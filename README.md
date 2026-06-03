@@ -20,7 +20,7 @@ Developed an interactive Power BI dashboard to analyze mobile sales performance 
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Mobile Sales Dashboard.png)
+![Dashboard](Mobile Sales dashboard.png)
 
 ## 📈 Key Business Insights
 - Apple and Samsung contributed major revenue share
